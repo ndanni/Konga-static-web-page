@@ -33,7 +33,7 @@ li, ul, a{
     float: right;
 }
 .btnl{
-    border-color: 1px solid rgb(255, 85, 232);
+    border-color: 1px solid green;
 }
 .ontop-nav-bar{
     display: block;
