@@ -4,7 +4,6 @@ body {
 }
 li, ul, a{
     display:inline-block;
-    padding:15 25px;
     color: #fff;
     text-decoration: none;
 }
@@ -26,14 +25,14 @@ li, ul, a{
 .top-nav-right, .top-nav-left{
     display: block;
     background-color: #ed017f;
-    padding: 5 15px;
+    padding: 5px 15px;
 }
 
 .top-nav-right {
     float: right;
 }
 .btnl{
-    border-color: 1px solid green;
+    background-color: solid green;
 }
 .ontop-nav-bar{
     display: block;
